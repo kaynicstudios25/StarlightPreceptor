@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		5EF3770D2F32D30B00C29FAE /* MyFirstProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EF3770D2F32D30B00C29FAE /* Starlight Preceptor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Starlight Preceptor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5EF3770F2F32D30B00C29FAE /* MyFirstProject */ = {
+		5EF3770F2F32D30B00C29FAE /* StarlightPreceptor */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MyFirstProject;
+			path = StarlightPreceptor;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		5EF377042F32D30B00C29FAE = {
 			isa = PBXGroup;
 			children = (
-				5EF3770F2F32D30B00C29FAE /* MyFirstProject */,
+				5EF3770F2F32D30B00C29FAE /* StarlightPreceptor */,
 				5EF3770E2F32D30B00C29FAE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		5EF3770E2F32D30B00C29FAE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5EF3770D2F32D30B00C29FAE /* MyFirstProject.app */,
+				5EF3770D2F32D30B00C29FAE /* Starlight Preceptor.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5EF3770C2F32D30B00C29FAE /* MyFirstProject */ = {
+		5EF3770C2F32D30B00C29FAE /* Starlight Preceptor */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5EF377182F32D30D00C29FAE /* Build configuration list for PBXNativeTarget "MyFirstProject" */;
+			buildConfigurationList = 5EF377182F32D30D00C29FAE /* Build configuration list for PBXNativeTarget "Starlight Preceptor" */;
 			buildPhases = (
 				5EF377092F32D30B00C29FAE /* Sources */,
 				5EF3770A2F32D30B00C29FAE /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5EF3770F2F32D30B00C29FAE /* MyFirstProject */,
+				5EF3770F2F32D30B00C29FAE /* StarlightPreceptor */,
 			);
-			name = MyFirstProject;
+			name = "Starlight Preceptor";
 			packageProductDependencies = (
 			);
 			productName = MyFirstProject;
-			productReference = 5EF3770D2F32D30B00C29FAE /* MyFirstProject.app */;
+			productReference = 5EF3770D2F32D30B00C29FAE /* Starlight Preceptor.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5EF377082F32D30B00C29FAE /* Build configuration list for PBXProject "MyFirstProject" */;
+			buildConfigurationList = 5EF377082F32D30B00C29FAE /* Build configuration list for PBXProject "Starlight Preceptor" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5EF3770C2F32D30B00C29FAE /* MyFirstProject */,
+				5EF3770C2F32D30B00C29FAE /* Starlight Preceptor */,
 			);
 		};
 /* End PBXProject section */
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5EF377082F32D30B00C29FAE /* Build configuration list for PBXProject "MyFirstProject" */ = {
+		5EF377082F32D30B00C29FAE /* Build configuration list for PBXProject "Starlight Preceptor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EF377162F32D30D00C29FAE /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5EF377182F32D30D00C29FAE /* Build configuration list for PBXNativeTarget "MyFirstProject" */ = {
+		5EF377182F32D30D00C29FAE /* Build configuration list for PBXNativeTarget "Starlight Preceptor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EF377192F32D30D00C29FAE /* Debug */,
